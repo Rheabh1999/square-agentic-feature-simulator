@@ -1,0 +1,39 @@
+date,order_id,item,category,unit_price,quantity,cogs_per_unit,payment_type
+2026-02-01,1001,Latte,Beverage,5.50,1,1.60,card
+2026-02-01,1001,Croissant,Food,4.00,1,1.20,card
+2026-02-01,1002,Drip Coffee,Beverage,3.25,2,0.60,card
+2026-02-01,1003,Muffin,Food,3.75,1,1.10,cash
+2026-02-02,1004,Latte,Beverage,5.50,2,1.60,card
+2026-02-02,1005,Tea,Beverage,3.00,1,0.40,cash
+2026-02-02,1005,Cookie,Food,2.25,2,0.55,cash
+2026-02-03,1006,Cappuccino,Beverage,5.25,1,1.50,card
+2026-02-03,1007,Latte,Beverage,5.50,1,1.60,card
+2026-02-03,1007,Blueberry Scone,Food,4.25,1,1.35,card
+2026-02-04,1008,Drip Coffee,Beverage,3.25,3,0.60,card
+2026-02-04,1009,Latte,Beverage,5.50,1,1.60,card
+2026-02-04,1009,Croissant,Food,4.00,2,1.20,card
+2026-02-05,1010,Latte,Beverage,5.50,2,1.60,card
+2026-02-05,1011,Muffin,Food,3.75,2,1.10,cash
+2026-02-06,1012,Cappuccino,Beverage,5.25,1,1.50,card
+2026-02-06,1013,Latte,Beverage,5.50,3,1.60,card
+2026-02-07,1014,Drip Coffee,Beverage,3.25,4,0.60,card
+2026-02-07,1015,Latte,Beverage,5.50,2,1.60,card
+2026-02-07,1015,Cookie,Food,2.25,3,0.55,card
+2026-02-08,1016,Latte,Beverage,5.50,1,1.60,card
+2026-02-08,1017,Tea,Beverage,3.00,2,0.40,cash
+2026-02-08,1018,Croissant,Food,4.00,2,1.20,card
+2026-02-09,1019,Latte,Beverage,5.50,2,1.60,card
+2026-02-09,1020,Cappuccino,Beverage,5.25,1,1.50,card
+2026-02-10,1021,Drip Coffee,Beverage,3.25,3,0.60,card
+2026-02-10,1022,Latte,Beverage,5.50,1,1.60,card
+2026-02-10,1022,Muffin,Food,3.75,1,1.10,card
+2026-02-11,1023,Latte,Beverage,5.50,2,1.60,card
+2026-02-11,1024,Blueberry Scone,Food,4.25,2,1.35,cash
+2026-02-12,1025,Cappuccino,Beverage,5.25,2,1.50,card
+2026-02-12,1026,Latte,Beverage,5.50,1,1.60,card
+2026-02-13,1027,Drip Coffee,Beverage,3.25,4,0.60,card
+2026-02-13,1028,Latte,Beverage,5.50,3,1.60,card
+2026-02-13,1028,Croissant,Food,4.00,2,1.20,card
+2026-02-14,1029,Latte,Beverage,5.50,2,1.60,card
+2026-02-14,1030,Tea,Beverage,3.00,1,0.40,cash
+2026-02-14,1030,Cookie,Food,2.25,2,0.55,cash
