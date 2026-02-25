@@ -238,8 +238,6 @@ When you run the agent, it will:
 with st.expander("Assumptions & limitations (important)", expanded=False):
     st.markdown(
         """
-This is a 1-day MVP with simplified assumptions.
-
 - Simulations use reasonable placeholders (e.g., “BNPL may lift conversion but adds fees”)
 - Results are directional and meant for decision support (not financial advice)
 - In a production tool, assumptions would be calibrated using real experiment data
